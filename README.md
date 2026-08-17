@@ -1,4 +1,4 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/69c7653b-ab9b-4dee-992f-cf798aab131f" /><h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
+<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
 <h3>Name:   SWARNA PRIYA S        </h3>
 <h3>Date: 17.08.2026 </h3>
 <h3>Register Number/Staff Id: 212225040447         </h3>
